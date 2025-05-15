@@ -20,7 +20,7 @@ vim のバージョンアップを行いたいが、設定ファイルが動作�
 make build
 ```
 
-# Run Docker iamge
+# Run Docker image
 ```
 make run
 ```
